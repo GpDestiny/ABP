@@ -1,0 +1,2 @@
+..\packages\FluentMigrator.1.5.0.0\tools\Migrate.exe /connection "Server=localhost; Database=sessionliang_NHDb; Trusted_Connection=True;" /db sqlserver /target "bin\Debug\sessionliang_NH.Infrastructure.NHibernate.dll"
+pause

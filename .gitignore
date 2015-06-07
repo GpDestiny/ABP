@@ -1,0 +1,14 @@
+aspnet_client/
+packages/
+node_modules/
+bower_components/
+properties/
+bin/
+obj/
+.vs/
+_publish/
+*.csproj.user
+.suo
+.settings/
+.zip
+
